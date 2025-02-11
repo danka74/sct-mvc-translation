@@ -13,7 +13,6 @@ url="http://34.78.75.225/r5/ValueSet/$1/\$expand?offset=$i&count=300&_format=jso
 codes=$(curl -X 'GET' \
   $url \
   -H 'Accept: application/json' \
-  -H 'Accept-Language: sv' | \
 jq -r '[.expansion.contains[] | select(.system == "http://snomed.info/sct") | "&conceptIds=" + .code] | join("")' || true )
 
 # remove the first &
@@ -42,7 +41,6 @@ do
   codes=$(curl -X 'GET' \
     $url \
     -H 'Accept: application/json' \
-    -H 'Accept-Language: sv' | \
   jq -r '[.expansion.contains[] | select(.system == "http://snomed.info/sct") | "&conceptIds=" + .code] | join("")' || true )
 
   # remove the first &

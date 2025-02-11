@@ -1,0 +1,33 @@
+GET https://browser.ihtsdotools.org/snowstorm/snomed-ct/MAIN%2FSNOMEDCT-SE/concepts?conceptIds=443327008&conceptIds=427667007
+Content-Type: application/json
+Accept-Language: sv
+
+###
+
+GET http://34.78.75.225/r5/ValueSet/eHDSIVaccine/$expand?count=300&_format=json
+Accept:  application/json
+
+###
+
+GET http://34.78.75.225/r5/ValueSet?_format=json
+Accept: application/json
+
+###
+
+GET https://browser.ihtsdotools.org/snowstorm/snomed-ct/MAIN%2FSNOMEDCT-SE/members?referenceSet=784008009&mapTarget=36&offset=0&limit=50
+Accept: application/json
+Accept-Language: sv-X-46011000052107
+
+###
+
+GET http://34.78.75.225/r5/ValueSet/eHDSIRareDisease?_format=json
+Accept:  application/json
+
+
+###
+
+GET https://id.who.int/icd/entity/1991139272?releaseId=2024-01&include=descendant
+accept: application/json
+API-Version: v2
+Accept-Language: en
+Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3MzgyNTU0ODMsImV4cCI6MTczODI1OTA4MywiaXNzIjoiaHR0cHM6Ly9pY2RhY2Nlc3NtYW5hZ2VtZW50Lndoby5pbnQiLCJhdWQiOlsiaHR0cHM6Ly9pY2RhY2Nlc3NtYW5hZ2VtZW50Lndoby5pbnQvcmVzb3VyY2VzIiwiaWNkYXBpIl0sImNsaWVudF9pZCI6ImE1MzY4MWFkLTNjYmQtNDQzMy1hY2U3LTVlYjYyOTU0MmVmN185NTlhYWFjMS0yNDU1LTQ2NDItYjVkYS1kYjkxNTM0NTA0Y2UiLCJzY29wZSI6WyJpY2RhcGlfYWNjZXNzIl19.H0FI2_1GY3WpS7P9SQlOCWHjhc31Nf7xa6ajLExygCawZtbDAaunq6se2wdl9Gi7QcgD1vZtBox1_XVZNupbS-Cmmu51CTSVuth0awEEb-EzI0QekyYUFYBDqaKb5qWXt5y-G3Orw2xjGcTalL9Zw5F_vPCG44Yh5UhcGgtkKLgIX-ReKGI1OEf9qjnKusIrMTYx1uOqkFeRm8vcs8zydtn_16x0FRmQAnyvejZ_mrFLvIDNC7-KbVpINcMsMvmQ1tifKfth1UeghPQG8jL-ztbh_S0Hui97LTgtVCpR0k7vtc1TyVR-DzJh_C8Tj37NBbBie37ovipAlJjzbx_M3A

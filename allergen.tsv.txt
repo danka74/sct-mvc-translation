@@ -1,0 +1,921 @@
+Allergen precipitating antibody
+Plastic allergen antibody
+Dust(specification) antibody
+Rye antibody
+Apricot antibody
+Cashew nut antibody
+Acarus siro antibody
+Acetylsalicylic acid antibody
+Corticotropin antibody
+Cucumber antibody
+Acacia antibody
+Asp o 21 antibody
+Alcalase antibody
+Alternaria alternata antibody
+Pineapple antibody
+Duck feather antibody
+Duck meat antibody
+Anise seed antibody
+Orange antibody
+Gummi arabicium antibody
+Artemia salina(fish food) antibody
+Ascaris suum antibody
+Ash, white antibody
+Asparagus antibody
+Aspergillus fumigatus antibody
+Aubergine antibody
+Aureobasidium pullulans antibody
+Avocado antibody
+Baker's yeast antibody
+Bahia grass antibody
+Banana antibody
+Bee venom antibody
+Birch antibody
+Weeping fig antibody
+Celery antibody
+Cauliflower antibody
+Plum antibody
+Blue mussel antibody
+Buckwheat seed antibody
+Cotton linters antibody
+Cotton seed antibody
+Botrytis cinerea antibody
+Bos d 6 antibody
+Broccoli antibody
+Cocklebur antibody
+Blackberry antibody
+Ana c 2 antibody
+Barley antibody
+Ragweed, common antibody
+Beech, american antibody
+Kidney bean, red antibody
+Candida albicans antibody
+Acremonium chrysogenum antibody
+Mushroom, champignon antibody
+Cheese, cheddar type antibody
+Pepper, Chili antibody
+Chinchilla epithelium antibody
+Chloramine T antibody
+Lemon antibody
+Cladosporium herbarum antibody
+Curvularia lunata antibody
+Italian cypress antibody
+Dermatophagoides farinae antibody
+Dermatophagoides microceras antibody
+Dermatophagoides pteronyssinus antibody
+Dill antibody
+Pigeon dropping antibody
+Pigeon feather antibody
+Echinococcus granulosus antibody
+Oak, white antibody
+Alder, grey antibody
+Elm antibody
+Alder, red antibody
+Juniper antibody
+Meadow grass antibody
+Timothy grass antibody
+Meadow foxtail grass antibody
+Meadow fescue antibody
+Epicoccum nigrum antibody
+Erythromycin antibody
+Tarragon antibody
+Ethylene oxide antibody
+Eucalyptus antibody
+Euroglyphus maynei antibody
+Fennel antibody
+Fennel seed antibody
+Peach antibody
+Finch feather antibody
+Velvet grass antibody
+Formaldehyde/formalin antibody
+Ferret epithelium antibody
+Fusarium moniliforme antibody
+Pine, white antibody
+Sheep epithelium antibody
+Mutton, lamb antibody
+Goat epithelium antibody
+Goat's milk antibody
+Gluten antibody
+Glycyphagus domesticus antibody
+Grapefruit antibody
+Pumpkin antibody
+Pumpkin seed antibody
+Green bean antibody
+Green coffee bean antibody
+Lettuce antibody
+Mugwort antibody
+Guar gum antibody
+Sweet vernal grass antibody
+Carrot antibody
+Hornet, yellow-faced antibody
+Golden rod antibody
+Goose feather antibody
+Goosefoot antibody
+Hamster epithelium antibody
+Hazel antibody
+Hazel nut antibody
+Oat grass, cultivated antibody
+Oats (whole grain) antibody
+Exserohilum rostratum antibody
+Horse bot fly antibody
+Horse serum antibody
+Horse dander antibody
+Raspberry antibody
+Millet, common antibody
+Honey antibody
+Hop antibody
+Lobster antibody
+Dog epithelium antibody
+Orchard grass antibody
+Dog dander antibody
+House dust(Greer Lab.Inc.) antibody
+House dust(Hollister-Stier Lab) antibody
+House dust mite antibody
+House dust(Pasteurpharma) antibody
+Wheat grass antibody
+Wheat antibody
+Redtop(Bentgrass) antibody
+Wasp antibody
+Wasp venom antibody
+White bean antibody
+Hornet, white-faced antibody
+Cabbage antibody
+Garlic antibody
+Ox-eye daisy antibody
+Elder antibody
+Chicken feather antibody
+Chicken meat antibody
+Egg, whole antibody
+Egg yolk antibody
+Egg white antibody
+Fire ant antibody
+Ginger antibody
+Insulin, bovine antibody
+Insulin, human antibody
+Insulin, porcine antibody
+Hexamethylene diisocyanate antibody
+4,4'-Diphenylmethane diisocyanate antibody
+Isocyanate, TDI antibody
+Ispaghula(laxative) antibody
+Japanese cedar antibody
+Johnson grass antibody
+Strawberry antibody
+Peanut antibody
+Coffee antibody
+Cacao antibody
+Cockroach antibody
+Turkey feather antibody
+Turkey meat antibody
+Camomile antibody
+Canary feather antibody
+Canary grass antibody
+Cinnamon antibody
+Rabbit epithelium antibody
+Rabbit meat antibody
+Rabbit serum antibody
+Cardamom antibody
+Curry antibody
+Potato antibody
+Sweet chestnut antibody
+Cat dander antibody
+Cat flea antibody
+Chinese elm antibody
+Cherry antibody
+Kiwi fruit antibody
+Coconut antibody
+Caraway antibody
+Cow's milk antibody
+Coriander antibody
+Cow dander antibody
+Crab antibody
+Crayfish antibody
+Haddock antibody
+Chicken dropping antibody
+Chicken serum antibody
+Salmon antibody
+Latex antibody
+Lepidoglyphus destructor antibody
+Lime antibody
+Lime tree antibody
+Lentil antibody
+Gal d 4 antibody
+Onion antibody
+Maple antibody
+Lovage antibody
+Maize pollen antibody
+Maize antibody
+Mackerel antibody
+Malt antibody
+Artemisia absinthium antibody
+Almond antibody
+Mango antibody
+Guinea pig epithelium antibody
+Maxatase antibody
+Melon antibody
+Marjoram antibody
+Mink epithelium antibody
+Mulberry antibody
+Mucor racemosus antibody
+Mouse epithelium antibody
+Mouse serum protein antibody
+Mouse urine protein antibody
+Masce antibody
+Nutmeg antibody
+Clam antibody
+Mosquito, common antibody
+Scale, lenscale antibody
+Dandelion antibody
+Milk powder(Kanolfingen) antibody
+Milk powder(Milupa Ag) antibody
+Milk, boiled antibody
+Clove antibody
+Tabanus spp antibody
+Beef antibody
+Olive antibody
+Pigweed antibody
+Oregano antibody
+Gal d 2 antibody
+Gal d 1 antibody
+Car p 1 antibody
+Parrot feather antibody
+Parrot dropping antibody
+Paper wasp antibody
+Capsicum annuum antibody
+Parakeet dropping antibody
+Parakeet serum antibody
+Brazil nut antibody
+Pepper, black antibody
+Pepper, green antibody
+Pecan antibody
+Pecan nut antibody
+Penicilloyl G antibody
+Penicilloyl V antibody
+Penicillium chrysogenum antibody
+Penicillium roqueforti antibody
+Parsley antibody
+Phoma betae antibody
+Phthalic anhydride antibody
+Willow antibody
+Pistachio nut antibody
+Malassezia furfur antibody
+Plane antibody
+Poplar antibody
+Pear antibody
+Daffodil antibody
+Rye grass antibody
+Rye grass, wild antibody
+Rape antibody
+Rape seed antibody
+Shrimp antibody
+Reindeer epithelium antibody
+Rhizopus stolonifer antibody
+Castor bean antibody
+Rice antibody
+Brussel sprout antibody
+Raisin antibody
+Rat epithelium antibody
+Rat serum protein antibody
+Rat urine protein antibody
+Rye flour antibody
+Fox epithelium antibody
+Beetroot antibody
+Spruce, common antibody
+Sheep sorrel antibody
+Blood worm antibody
+Plaice antibody
+Schistosoma mansoni antibody
+Mustard antibody
+Sesame seed antibody
+Herring antibody
+Silk waste antibody
+Silk antibody
+Cheese, mold type antibody
+Forest elm antibody
+Saltwort antibody
+Soybean antibody
+Sunflower antibody
+Spinach antibody
+Parietaria judaica antibody
+Parietaria officinalis antibody
+Brome grass antibody
+Staphylococcus aureus antibody
+Stemphylium botryosum antibody
+European hornet antibody
+Stinging nettle, common antibody
+Sugar beet seed antibody
+Swine epithelium antibody
+Pork antibody
+Seminal plasma antibody
+Reed grass, common antibody
+Tea antibody
+TetraMin(fish food) antibody
+Tobacco antibody
+Tomato antibody
+Codfish antibody
+Ragweed, giant antibody
+Trichoderma viride antibody
+Trichosporon pullulans antibody
+Tricophyton rubrum antibody
+Trimellitic anhydride antibody
+Tuna antibody
+Tyrophagus putrescentiae antibody
+Ulocladium chartarum antibody
+Subtilisine antibody
+Club moss antibody
+Budgerigar dropping antibody
+Budgerigar feather antibody
+Budgerigar serum protein antibody
+Tilletia tritici antibody
+Cow whey antibody
+Poppy seed antibody
+Walnut antibody
+Vanilla antibody
+Plantain antibody
+Grape antibody
+Apple antibody
+Fir, common antibody
+Pea antibody
+Rainbow trout antibody
+Oyster antibody
+Eel antibody
+Bee antibody
+Cage bird antibody
+Inhalation antigen antibody
+Cytomegalovirus antibody
+Thyme antibody
+Grain weevil antibody
+Animal antibody
+Animal feather antibody
+Occupational allergen antibody
+Fish antibody
+Food allergen antibody
+Grain antibody
+Grass pollen antibody
+Meat antibody
+Nut antibody
+Mold fungus antibody
+Tree or bush pollen antibody
+Herb pollen antibody
+Fruit antibody
+Spice antibody
+Mouse(epithelium,urine,serum) antibody
+Rat(epithelium, urine, serum) antibody
+Staphylococcal enterotoxin C antibody
+Staphylococcal enterotoxin D antibody
+Aspergillus versicolor antibody
+Cladosporium cladosporioides antibody
+Amoxicillin antibody
+Auto antibody HR
+Mediterranean Flour Moth antibody
+Citrus antibody
+Habitation allergen antibody
+Ampicillin antibody
+Silk moth antibody
+Chaetomium globosum antibody
+Chamaecyparis antibody
+Western ragweed antibody
+Inhalation antigen+food antigen antibody
+Aspergillus niger antibody
+Australian pine antibody
+Basil antibody
+Bermudagrass antibody
+Octopus antibody
+Pacific squid antibody
+Squid antibody
+Carmine red antibody
+Fig antibody
+Gelatine antibody
+Horse chestnut antibody
+Rose hip antibody
+Carob bean antibody
+Persimmon fruit antibody
+Scallop antibody
+Rabbit urine protein antibody
+Chick pea antibody
+Passion fruit antibody
+Pine nut antibody
+Red currant antibody
+Staphylococcal enterotoxin A antibody
+Staphylococcal enterotoxin B antibody
+Watermelon antibody
+Anchovy antibody
+Malassezia antibody
+Saccharopolyspora rectivirgula antibody
+Thermoactinomyces vulgaris antibody
+Saccharopolyspora rectivirgula+Thermoactinomyces vulgaris antibody
+Guava fruit antibody
+Date antibody
+Linseed antibody
+Maleic anhydride antibody
+Snail antibody
+Bumble bee antibody
+Blueberry antibody
+Mandarin antibody
+Protamine antibody
+Lupine seed antibody
+Privet antibody
+Lupin antibody
+Housedust allergen antibody
+Sunflower seed antibody
+Pollock antibody
+Macadamia nut antibody
+Chub mackerel antibody
+Cranberry antibody
+Tri a 19 antibody
+Parakeet feather antibody
+Anisakis antibody
+Quaternary ammonium, morphine antibody
+Elk/moose meat antibody
+Tragacanth antibody
+Olive (black, fresh) antibody
+Spelt wheat antibody
+Stachybotrys chartarum antibody
+Penicillium spp. antibody
+False ragweed antibody
+Bos d lactoferrin antibody
+Ara h 1 antibody
+Ara h 2 antibody
+Ara h 3 antibody
+Ara h 8 antibody
+Ara h 9 antibody
+Cor a 1 antibody
+Cor a 8 antibody
+Ber e 1 antibody
+Gly m 4 antibody
+Pholcodine antibody
+Cefaclor antibody
+Chlorhexidine antibody
+Canary bird serum antibody
+Canary bird droppings antibody
+Gerbil epithelium antibody
+Blomia tropicalis antibody
+Deer epithelium antibody
+Swine serum albumin antibody
+Budgerigar(serum,feather,dropping) antibody
+Pigeon(serum,feather,dropping) antibody
+Parrot(serum,feather,dropping) antibody
+Bay leaf antibody
+Papaya antibody
+Halibut antibody
+Fenugreek antibody
+Horse meat antibody
+Sheep milk antibody
+Saffron antibody
+Mint antibody
+Allspice antibody
+Quinoa antibody
+Cyp c 1 antibody
+Catfish antibody
+Api g 1 antibody
+Pru p 3 antibody
+Bos d 4 antibody
+Bos d 5 antibody
+Bos d 8 antibody
+False oat-grass antibody
+Phl p 1 antibody
+Phl p 4 antibody
+Phl p 7 antibody
+Phl p 12 antibody
+Phl p 5b antibody
+Phl p 1, Phl p 5b antibody
+Phl p 7, Phl p 12 antibody
+Abachi wood dust antibody
+Asp f 1 antibody
+Asp f 2 antibody
+Asp f 3 antibody
+Asp f 4 antibody
+Asp f 6 antibody
+Alt a 1 antibody
+Der p 1 antibody
+Der p 2 antibody
+Can f 1 antibody
+Can f 2 antibody
+Fel d 1 antibody
+Can f 3 antibody
+Amb a 1 antibody
+Alfalfa antibody
+Art v 1 antibody
+CCD, MUXF3 Bromelain antibody
+Gal d 3 antibody
+Pen a 1 antibody
+Hev b 1 antibody
+Hev b 3 antibody
+Hev b 5 antibody
+Hev b 6.01 antibody
+Hev b 6.02 antibody
+Hev b 8 antibody
+Hev b 9 antibody
+Hev b 11 antibody
+Chestnut antibody
+Douglas fir antibody
+Cedar antibody
+Monterey pine antibody
+Bet v 1 antibody
+Bet v 2 antibody
+Bet v 4 antibody
+Ash, european antibody
+Foxtail millet antibody
+Japanese millet antibody
+Trichophyton mentagrophytes var. interdigitale antibody
+Green nimitti antibody
+Gad c 1 antibody
+Penicillium glabrum antibody
+Iva ciliata antibody
+Firebush (Kochia) antibody
+Suxamethonium antibody
+Fel d 2 antibody
+Bird antibody
+Pigeon serum protein antibody
+Spiny lobster antibody
+Hake antibody
+Swordfish antibody
+Sole antibody
+Sage antibody
+Litchi antibody
+Pru p 1 antibody
+Pru p 4 antibody
+Bamboo shoot antibody
+Sardinops melanostictus antibody
+Phl p 2 antibody
+Cockroach, american antibody
+Cockroach, oriental antibody
+European paper wasp antibody
+Staphylococcal enterotoxin TSST antibody
+Daphnia(fish feed) antibody
+Date palm antibody
+Bet v 6 antibody
+Sugar beet antibody
+Api m 1 antibody
+Ves v 5 antibody
+Red cedar antibody
+Humulus japonicus antibody
+Aspergillus flavus antibody
+Aspergillus terreus antibody
+Jujube antibody
+Arizona cypress antibody
+Megrim antibody
+Hackberry antibody
+Hexahydrophtalic anhydrid antibody
+Methyltetrahydrophthalic anhydride antibody
+Sheep whey antibody
+Red snapper antibody
+Par j 2 antibody
+Phl p 6 antibody
+Jack mackerel antibody
+Blue vetch antibody
+Swine urine protein antibody
+Act d 8 antibody
+Der p 10 antibody
+Galactosyl-(1-3)galactose antibody
+Prosopis glandulosa antibody
+Tetanus toxoid (Clo t Toxoid) antibody
+Art v 3 antibody
+Ves v 1 antibody
+Gly m 5 antibody
+Gly m 6 antibody
+Pol d 5 antibody
+Pepsin (Sus s Pepsin) antibody
+Cedar elm antibody
+Fel d 4 antibody
+Oil palm antibody
+Virginia live oak antibody
+Chymopapain antibody
+Yellow dock antibody
+Cor a 9 antibody
+Cor a 14 antibody
+Tri a 14 antibody
+Mal d 1 antibody
+Mal d 3 antibody
+Equ c 1 antibody
+Can f 5 antibody
+Ana o 3 antibody
+Gliadin antibody
+Jug r 1 antibody
+Jug r 3 antibody
+Sulfamethoxazol antibody
+Sweet potato antibody
+Jack fruit antibody
+Walleye pike antibody
+Phl p 11 antibody
+Ole e 1 antibody
+Ole e 9 antibody
+Dog fennel antibody
+DNA(Single Stranded) antibody
+Savinase, Protease 1 antibody
+Hypersensitivity related antibody
+Sardina pilchardus antibody
+Amoxicilloyl antibody
+Ampicilloyl antibody
+Api m 10 antibody
+Tilapia antibody
+Chocolate antibody
+Phaseolus lunatus antibody
+Api m 2 antibody
+Api m 5 antibody
+Bet v 2, Bet v 4 antibody
+Api m 3 antibody
+Bougainvillea antibody
+Streptavidin antibody
+Rocuronium antibody
+Paecilomyces variotii antibody
+Aspergillus oryzae antibody
+Parrot serum antibody
+Ara h 6 antibody
+Ole e 7 antibody
+Vegetable antibody
+Der p 23 antibody
+Whitefish antibody
+Melaleuca(cajeput tree) antibody
+Mealworm antibody
+Hornbeam antibody
+Pru p 7 antibody
+Grouper antibody
+Laceyella sacchari antibody
+Ara h 7 antibody
+Ses i 1 antibody
+Fel d 7 antibody
+Can f 4 antibody
+Can f 6 antibody
+Der f 1 antibody
+Der f 2 antibody
+Asp r 1 antibody
+Pru av 1 antibody
+Pru av 3 antibody
+Pru av 4 antibody
+Mal d 4 antibody
+Horseradish peroxidase antibody
+Cayenne pepper antibody
+Cantaloupe antibody
+Radish antibody
+Sugar cane antibody
+Olive, green antibody
+Artichoke antibody
+Yogurt antibody
+Loquat antibody
+Arugula antibody
+Whiting antibody
+Mastic tree antibody
+Tree of Heaven antibody
+White hickory antibody
+Oak, red antibody
+Loblolly pine antibody
+Red mulberry antibody
+Cypress, japanese antibody
+Japanese alder antibody
+Mango tree antibody
+Poplar, white antibody
+Spiny pigweed antibody
+Common sagebrush antibody
+Groundsel bush antibody
+Iodine bush antibody
+Wing scale antibody
+Maple, red antibody
+Locust tree antibody
+Ash, Arizona antibody
+Bald cypress, white antibody
+Brazilian peppertree antibody
+Queen palm antibody
+Salt grass antibody
+Cyn d 1 antibody
+Penicillium brevicompactum antibody
+Sheep wool antibody
+Aspergillus nidulans antibody
+Hormodendrum hordei antibody
+Aspergillus clavatus antibody
+Stemphylium solani antibody
+Sweet gum antibody
+Cup a 1 antibody
+Pla a 1 antibody
+Sal k 1 antibody
+Pla l 1 antibody
+Artemisia annua antibody
+Taraxacum officinale antibody
+Iva annua antibody
+Rugosa rose antibody
+Carnation antibody
+Clover, red antibody
+Che a 1 antibody
+Mer a 1 antibody
+Geranium antibody
+Ragweed mix antibody
+Amaranthus palmeri antibody
+Amaranthus hybridus antibody
+Water hemp, Western antibody
+Humulus scandens antibody
+Rabbit bush antibody
+Mexican tea antibody
+Saltbush, annual antibody
+Ragweed, slender antibody
+Burrobush antibody
+Western juniper antibody
+Oak antibody
+Flour dust antibody
+Cheese, swiss antibody
+Cheese, parmesan antibody
+Ascorbate oxidase (Cuc p AscO) antibody
+Box elder antibody
+Black birch antibody
+American hazel antibody
+Juglans californica antibody
+Juglans nigra antibody
+Juglans regia antibody
+Sycamore, american antibody
+Salix caprea antibody
+Salix nigra antibody
+Prosopis velutina antibody
+Russian olive antibody
+Birch, gray antibody
+Perch antibody
+Goat's cheese antibody
+Zucchini antibody
+Eurotium antibody
+Pepper tree antibody
+Cedar, salt antibody
+Juniper, one-seed antibody
+Pine, lodgepole antibody
+Pine, ponderosa antibody
+Beech, European antibody
+Scotch broom antibody
+Bayberry antibody
+Orange tree antibody
+Lilac antibody
+Sweet gale antibody
+Palo verde antibody
+Aspen, quaking antibody
+Eastern hemlock antibody
+Redwood antibody
+Date palm, canary antibody
+Pla a 3 antibody
+Cor a 1.01 antibody
+Aln g 1 antibody
+Cry j 1 antibody
+Western white pine antibody
+Saccharomyces cerevisiae antibody
+Cladosporium fulvum antibody
+Fusarium culmorum antibody
+Mucor mucedo antibody
+Paecilomyces antibody
+Penicillium citrinum antibody
+Aspergillus repens antibody
+Serpula lacrymans antibody
+Trichophyton mentagrophytes antibody
+Aspergillus amstelodami antibody
+Saccharomyces pastorianus antibody
+Bipolaris spicifera antibody
+Fusarium oxysporum antibody
+Micropolyspora faeni antibody
+Microspora canis antibody
+Mucor plumbeus antibody
+Nigrospora oryzae antibody
+Rhodotorula antibody
+Epidermophyton antibody
+Phycomyces blakesleeanus antibody
+Mycogone antibody
+Gliocladium fimbriatum antibody
+Geotrichum candidum antibody
+Alt a 6 antibody
+Cla h 8 antibody
+Chortoglyphus arcuatus antibody
+Gohieria fusca antibody
+Blo t 5 antibody
+Lep d 2 antibody
+Brewer's yeast antibody
+House dust, Japan antibody
+Alder, smooth antibody
+Pussy willow antibody
+Hazel adler, Smooth alder antibody
+Corn smut antibody
+Oat smut antibody
+Helminthosporium intersemin antibody
+Bermuda grass smut antibody
+Johnson grass smut antibody
+Cefuroxime antibody
+Cor a 16 antibody
+Ara h 18 antibody
+Atracurium antibody
+Polyhexanide antibody
+Propyphenazone antibody
+Camel dander antibody
+Broad bean antibody
+Hydrolyzed wheat protein antibody
+Porcino mushroom antibody
+Limpet antibody
+Confused flour beetle antibody
+Pigeon tick antibody
+Asian hornet antibody
+Hemp antibody
+Can s 3 antibody
+Glucan 1,4-alpha-glucosidase antibody
+Cellulase antibody
+Api m 4 antibody
+Wheat grass, western antibody
+Annual bluegrass antibody
+Phl p 1, Phl p 5 antibody
+Lovebird feather antibody
+Equ c 3 antibody
+Mus m 1 antibody
+Oyster mushroom antibody
+Breast milk antibody
+Bay scallop antibody
+Kefir antibody
+Pacific ocean perch antibody
+Sheep cheese antibody
+Yam antibody
+Chinese yam antibody
+Chamomile tea antibody
+Pinto bean antibody
+Cheese, American antibody
+Black-eyed pea antibody
+English sole antibody
+Gulf flounder antibody
+Flounder antibody
+Green bell pepper antibody
+Goose meat antibody
+Cheese, camembert antibody
+Nectarine antibody
+Kohlrabi antibody
+Leek antibody
+American cranberry antibody
+Common sunflower seed antibody
+Raw milk antibody
+Soy milk antibody
+Safflower seed antibody
+Gal d 5 antibody
+Cheese, gouda antibody
+Rosemary antibody
+Cumin antibody
+Horse milk antibody
+Carambola antibody
+Carp antibody
+Wine vinegar antibody
+Wine, white antibody
+Wine, red antibody
+Abalone antibody
+Chives antibody
+Chum salmon roe antibody
+Alaska pollock roe antibody
+Gum karaya antibody
+Horseradish antibody
+Maple syrup antibody
+Okra antibody
+Art d 1 antibody
+Art d 2 antibody
+Giant wild rye antibody
+Ana o 2 antibody
+Pen m 2 antibody
+Pen m 4 antibody
+Act d 5 antibody
+Jug r 2 antibody
+Fag e 2 antibody
+Tri a aA_TI antibody
+Cor a 11 antibody
+Jug r 6 antibody
+Midge antibody
+Water flea antibody
+Deer fly antibody
+Black ant antibody
+Common flea antibody
+Berlin beetle antibody
+Fly antibody
+Bla g 1 antibody
+Bla g 2 antibody
+Bla g 5 antibody
+Bla g 7 antibody
+Ceftriaxone antibody
+Cephalosporin mix antibody
+Pyrazolon derivatives antibody
+Paracetamol antibody
+Tetracycline antibody
+Doxycycline antibody
+Macrolid mix antibody
+Lidocaine antibody
+Trimethoprim antibody
+Diclofenac antibody
+Indomethacin antibody
+Ibuprofen antibody
+Clavulanic acid antibody
+Ciprofloxacin antibody
+Lactose antibody
+Benzoic acid antibody
+Sodium iodide antibody
+Redtop(Agrostis gigantea) antibody
+Quinoline yellow antibody
+Glutamic acid antibody
+Methylene blue antibody
+Methylparaben antibody
+Tartrazine antibody
+Maltose-binding protein antibody
+Thresh dust allergen antibody
+Toxocara canis antibody
+Flax antibody
+Cotton (treated) antibody
+Hop (hops) antibody
+Kapok antibody
+Straw dust antibody
+Grain mill dust antibody
+Ani s 3 antibody
+Ani s 1 antibody
+Hay dust antibody
+Orris root antibody
+Human Serum Albumin antibody
+Orange roughy antibody
